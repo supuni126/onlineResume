@@ -597,7 +597,7 @@ footer {
 
 .social-icon li a {
     border: 2px solid transparent;
-    color: #ffffff;
+    color: #000000;
     border-radius: 100px;
     cursor: pointer;
     font-size: 16px;
