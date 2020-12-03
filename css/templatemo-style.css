@@ -70,7 +70,7 @@ strong {
 }
 
 p {
-    color: #4F4F4F;
+    color: #000080;
     font-size: 16px;
     font-weight: 300;
     line-height: 28px;
@@ -161,7 +161,7 @@ footer {
 }
 
 .color-white {
-  color: #ffffff;
+  color: #800000;
 }
 
 .color-yellow {
@@ -453,6 +453,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .media .fa {
+  color: #000000
   font-size: 42px;
   margin-right: 14px;
 }
