@@ -52,7 +52,7 @@ h3 {
 }
 
 h4 {
-  color: #999;
+  color: #995E00;
   font-size: 12px;
   font-weight: normal;
   letter-spacing: 2px;
@@ -70,7 +70,7 @@ strong {
 }
 
 p {
-    color: #888;
+    color: #4F4F4F;
     font-size: 16px;
     font-weight: 300;
     line-height: 28px;
@@ -494,6 +494,7 @@ a:hover, a:active, a:focus {
 
 #quotes p {
   padding-top: 32px;
+  color: #ffffff;
 }
 
 
@@ -594,7 +595,7 @@ footer {
 
 .social-icon li a {
     border: 2px solid transparent;
-    color: #999;
+    color: #ffffff;
     border-radius: 100px;
     cursor: pointer;
     font-size: 16px;
