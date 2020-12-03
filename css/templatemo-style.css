@@ -98,7 +98,7 @@ p {
 }
 
 .btn-success:focus {
-  background-color: #000;
+  background-color: #808080;
   border-color: transparent;
 }
 
@@ -203,7 +203,7 @@ a:hover, a:active, a:focus {
 }
 
 * {
-  color: #ffffff;
+  color: #000000;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
