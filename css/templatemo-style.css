@@ -392,6 +392,7 @@ a:hover, a:active, a:focus {
 }
 
 #about .progress {
+  object-fit: cover;
   background: #ffffff;
   border-radius: 0px;
   box-shadow: none;
